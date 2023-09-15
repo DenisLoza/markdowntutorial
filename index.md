@@ -1,4 +1,4 @@
- ## <Denis Kufakov> web exercise
+ ## Denis Kufakov web exercise
 
 
 ### 1. Italics and Bold
